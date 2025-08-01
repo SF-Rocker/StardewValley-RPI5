@@ -15,7 +15,7 @@ this  installs pi apps, then search steam,
  crwxrwxrwx is the golden ticket to no crashes.
 7.Open a Terminal and type ```cd Downloads``` ```git clone https://github.com/SF-Rocker/0CrashSteamRunRPI5.git```
 if files get misplaced, figure out which directory you were supposed to be in first.
-8. Follow the ReadMe document i posted on the https://github.com/SF-Rocker/0CrashSteamRunRPI5/tree/StartUp.services github
+ Follow the ReadMe document i posted on the https://github.com/SF-Rocker/0CrashSteamRunRPI5/tree/StartUp.services github
   It will show you how I made a boot script for running  ```sudo chmod 777 /dev/cuse``` on StartUp, don't  type it manually each time.
  It does it for you.
 9. Open Steam from the pi apps store ```wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash``` search steam, and will reboot and  ask you to run 4 kb page size kernel?
