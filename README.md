@@ -3,7 +3,7 @@ HOW TO USE my Stardew Valley Setup on a Raspberry pi 5,
 running raspian os bookworm or maybe even trixie.
 
 
-0. Open terminal CTRL + ALT + T ,& run ```sudo apt update && sudo apt upgrade - y``` and then once upgraded run ```wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash```
+0. Open terminal CTRL + ALT + T , & run ```sudo apt update && sudo apt upgrade - y``` and then once upgraded run ```wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash```
 this  installs pi apps, then search steam, 
 1. Visit first off my repository @ "https://github.com/SF-Rocker/0CrashSteamRunRPI5" # in your web browser not terminal yet.
 2. Then do exactly what it says to disable the extra sound card feature Preclaim OSS device  that impacts performance, and prevents future crashes.
