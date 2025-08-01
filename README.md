@@ -13,6 +13,8 @@ this  installs pi apps, then search steam,
 6. type ```sudo ls -l /dev/cuse``` again
  see the differences between ownership e.g. crw-------     <--- character device file for read and write. crwxrwxrwx  <--- chr,read, write and execute.
  crwxrwxrwx is the golden ticket to no crashes.
+
+
 Open a Terminal and type ```cd Downloads``` ```git clone https://github.com/SF-Rocker/0CrashSteamRunRPI5.git```
 if files get misplaced, figure out which directory you were supposed to be in first.
  Follow the ReadMe document i posted on the https://github.com/SF-Rocker/0CrashSteamRunRPI5/tree/StartUp.services github
