@@ -1,6 +1,8 @@
 # StardewValley-RPI5
 HOW TO USE my Stardew Valley Setup on a Raspberry pi 5,
 running raspian os bookworm or maybe even trixie.
+
+
 0. Open terminal and close afterwards CTRL + F4
 to CLOSE, run ```sudo apt update && sudo apt upgrade - y``` and then once upgraded run ```wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash```
 this  installs pi apps, then search steam, 
